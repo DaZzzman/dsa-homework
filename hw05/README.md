@@ -1,2 +1,2 @@
-# dsa-homework hw-04
+# dsa-homework hw-05
 Нужно вспомнить статистику.
